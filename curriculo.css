@@ -1,0 +1,22 @@
+h1{
+	padding: 5px;
+	background-color: #000000;
+	color: #DDDDDD
+}
+ exp{
+ 	text-indent: 50 px;
+}
+
+body{
+	background-color: #ffffff;
+	font-family: Helvetica, Arial, sans-serif;
+	width: 1000px;
+	margin: auto;
+}
+#email{
+	text-decoration: underline;
+	font-style: italic;
+}
+#header{
+	text-align:center;
+}
